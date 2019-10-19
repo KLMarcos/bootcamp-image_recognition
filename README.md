@@ -1,4 +1,4 @@
-# Learning Machine Learning - Jupyter Notebook
+# Machine Learning - Jupyter Notebook
 
 Launch the environment using the link bellow:
 
